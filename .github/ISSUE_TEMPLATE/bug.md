@@ -45,3 +45,4 @@ What version of Roop are you using?
 - [ ] 1.3.1
 - [ ] 1.3.2
 - [ ] next
+- [ ] 1.3.2.3
